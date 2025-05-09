@@ -1,0 +1,1 @@
+add media query at 900px wheen making reponsive image borders
